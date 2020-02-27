@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Matematika Nusantara</title>
-    <link>http://examplesite.com/categories/</link>
+    <link>https://idt-id.github.io/mn/categories/</link>
     <description>Recent content in Categories on Matematika Nusantara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://idt-id.github.io/mn/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>programming</title>
-      <link>http://examplesite.com/categories/programming/</link>
+      <link>https://idt-id.github.io/mn/categories/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://examplesite.com/categories/programming/</guid>
+      <guid>https://idt-id.github.io/mn/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pseudo</title>
-      <link>http://examplesite.com/categories/pseudo/</link>
+      <link>https://idt-id.github.io/mn/categories/pseudo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://examplesite.com/categories/pseudo/</guid>
+      <guid>https://idt-id.github.io/mn/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>starting</title>
-      <link>http://examplesite.com/categories/starting/</link>
+      <link>https://idt-id.github.io/mn/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://examplesite.com/categories/starting/</guid>
+      <guid>https://idt-id.github.io/mn/categories/starting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lorem</title>
-      <link>http://examplesite.com/categories/lorem/</link>
+      <link>https://idt-id.github.io/mn/categories/lorem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://examplesite.com/categories/lorem/</guid>
+      <guid>https://idt-id.github.io/mn/categories/lorem/</guid>
       <description></description>
     </item>
     

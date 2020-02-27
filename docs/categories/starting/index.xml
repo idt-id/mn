@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>starting on Matematika Nusantara</title>
-    <link>http://examplesite.com/categories/starting/</link>
+    <link>https://idt-id.github.io/mn/categories/starting/</link>
     <description>Recent content in starting on Matematika Nusantara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="http://examplesite.com/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://idt-id.github.io/mn/categories/starting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a new theme</title>
-      <link>http://examplesite.com/blog/creating-a-new-theme/</link>
+      <link>https://idt-id.github.io/mn/blog/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://examplesite.com/blog/creating-a-new-theme/</guid>
+      <guid>https://idt-id.github.io/mn/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo.</description>
     </item>
     

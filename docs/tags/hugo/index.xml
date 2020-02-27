@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Matematika Nusantara</title>
-    <link>http://examplesite.com/tags/hugo/</link>
+    <link>https://idt-id.github.io/mn/tags/hugo/</link>
     <description>Recent content in hugo on Matematika Nusantara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://examplesite.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://idt-id.github.io/mn/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linked post</title>
-      <link>http://examplesite.com/blog/linked-post/</link>
+      <link>https://idt-id.github.io/mn/blog/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>http://examplesite.com/blog/linked-post/</guid>
+      <guid>https://idt-id.github.io/mn/blog/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:</description>
     </item>
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>http://examplesite.com/blog/hugo-is-for-lovers/</link>
+      <link>https://idt-id.github.io/mn/blog/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>http://examplesite.com/blog/hugo-is-for-lovers/</guid>
+      <guid>https://idt-id.github.io/mn/blog/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.</description>
     </item>
     

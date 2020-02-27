@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "https://idt-id.github.io/mn/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
